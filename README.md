@@ -8,6 +8,17 @@ In the execution directory a new folder called "Tarma" should come up.
 Then, follow the intuitive instructions that the program offers.
 ```
 
+**Features**
+```
+- Write new data.
+- Read saved data.
+- List all saved data.
+- Sort data by rating.
+    - Sort everything.
+    - Sort Books or Non-Books only.
+- Clear written data.
+```
+
 **Am I using this?**
 ```
 Yes, I am and will use Tarma to save what I think of the books I read.
