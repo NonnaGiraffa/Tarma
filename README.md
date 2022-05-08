@@ -8,13 +8,6 @@ In the execution directory a new folder called "Tarma" should come up.
 Then, follow the intuitive instructions that the program offers.
 ```
 
-**Will this get updated?**<br>
-```
-No, it won't, unless a group of people is interested and using the project.
-This was just a way for me to spend some time, and it was never intended to have a big scale.
-The (small) project was built in 4 hours only, from the gorund up.
-```
-
 **Am I using this?**
 ```
 Yes, I am and will use Tarma to save what I think of the books I read.
@@ -22,7 +15,15 @@ Yes, I am and will use Tarma to save what I think of the books I read.
 
 **Should *you* use this?**
 ```
-If you want to you can, but of course I have no responsibility for any data losses
+If you want to you can, but of course I have no responsibility for any data losses.
+Still, I have found no bugs.
+```
+
+**Will this get updated?**<br>
+```
+No, it won't, unless a group of people is interested and using the project.
+This was just a way for me to spend some time, and it was never intended to have a big scale.
+The (small) project was built in 4 hours only, from the gorund up.
 ```
 
 **No bugs?**
