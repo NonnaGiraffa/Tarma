@@ -27,7 +27,7 @@ If you want to you can, but of course I have no responsibility for any data loss
 
 **No bugs?**
 ```
-The project is so simple it doesn't seem to have any bugs.<br>
+The project is so simple it doesn't seem to have any bugs. <br>
 If you find any, please let me know, I'll fix it.
 (Or maybe fork it yourself and have fun :D)
 ```
