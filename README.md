@@ -21,7 +21,7 @@ Then, follow the intuitive instructions that the program offers.
 
 **Am I using this?**
 ```
-Yes, I am and will use Tarma to save what I think of the books I read.
+Yes, I am (and will) use Tarma to save what I think of the books I read.
 ```
 
 **Should *you* use this?**
