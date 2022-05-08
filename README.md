@@ -40,6 +40,6 @@ The (small) project was built in 4 hours only, from the gorund up.
 **No bugs?**
 ```
 The project is so simple it doesn't seem to have any bugs.
-If you find any, please let me know, I'll fix it.
+If you find any, please let me know, I'll fix them.
 (Or maybe fork it yourself and have fun :D)
 ```
